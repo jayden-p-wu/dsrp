@@ -1,0 +1,5 @@
+Read in dataset(s)
+Clean up column names
+Account for missing data
+Join any datasets that need to be joined together
+Make your data in a tidy format, with rows as observations and columns as variables
